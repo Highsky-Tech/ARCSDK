@@ -1,0 +1,6 @@
+framework module ARCSDK {
+  umbrella header "ARCSDK.h"
+
+  export *
+  module * { export * }
+}
