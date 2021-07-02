@@ -6,15 +6,15 @@
 	<dict>
 		<key>ARMaterialTableViewCell.nib</key>
 		<data>
-		LI2ACCvO/I4JVP22HhCcvLYnDbs=
+		5UoW5BluRI3BJCJ47I6CGqngBow=
 		</data>
 		<key>ARMenuTableViewCell.nib</key>
 		<data>
-		/EJw9LGxumCqOIz+EdI/k/GjViE=
+		nAIo7VoJpFMEO0nUemroZHYFiE0=
 		</data>
 		<key>ARResTableViewCell.nib</key>
 		<data>
-		RA6wQZXxnSsKgYsJ+3aWd3ycnh0=
+		AJTSdldi9dW97TadxHA9WS6X7ZU=
 		</data>
 		<key>Headers/ARBaseModel.h</key>
 		<data>
@@ -51,33 +51,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LI2ACCvO/I4JVP22HhCcvLYnDbs=
+			5UoW5BluRI3BJCJ47I6CGqngBow=
 			</data>
 			<key>hash2</key>
 			<data>
-			BlkrzDDGOsVB+LIu5B3xGs+/Z/ziTGHCBjYOm9ZAiZk=
+			o7Us6GQqOVOix3kT0LVfBC02Vi/vyoABOgFpuzdLopU=
 			</data>
 		</dict>
 		<key>ARMenuTableViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/EJw9LGxumCqOIz+EdI/k/GjViE=
+			nAIo7VoJpFMEO0nUemroZHYFiE0=
 			</data>
 			<key>hash2</key>
 			<data>
-			0uNiMk/Yvo7MUN+Cz/8NND+SFMom6CtPQiGjPzBgURo=
+			eb6AGF54g+aaJraZa+6IdcJc+Pmq3FPoKK+Xi9SsBUk=
 			</data>
 		</dict>
 		<key>ARResTableViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RA6wQZXxnSsKgYsJ+3aWd3ycnh0=
+			AJTSdldi9dW97TadxHA9WS6X7ZU=
 			</data>
 			<key>hash2</key>
 			<data>
-			oW0VXiuBE4TsuOqY8s+tvAvWWJEJBpjQl22hCdEe5G0=
+			lmzi7c2dz8BBRJ3LEBuOmsRtQCHV178pmmq1VmbKjp0=
 			</data>
 		</dict>
 		<key>Headers/ARBaseModel.h</key>
